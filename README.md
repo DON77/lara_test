@@ -1,10 +1,10 @@
-## This is the whole task repo for VOD
+## This is the whole task 
 
 ### Installation steps 
 
 - clone this repository
 ```
-git clone https://bitbucket.org/vanandmkrtchyan/vod-test.git
+git clone ...
 ```
 - run this command
 ```
